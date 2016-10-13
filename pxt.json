@@ -12,9 +12,8 @@
         "main.ts",
         "MiNodeComponent.h",
         "MiNodeConn.h",
-        "MiNodeIO.h",
         "MiNodeConn.cpp",
-        "MiNodeIO.cpp"
+        "enums.d.ts"
     ],
     "testFiles": [
         "tests.ts"
