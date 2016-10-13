@@ -1,0 +1,24 @@
+{
+    "name": "minode-core",
+    "version": "0.0.0",
+    "description": "MiNode PXT core package",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "MiNodeComponent.h",
+        "MiNodeConn.h",
+        "MiNodeIO.h",
+        "MiNodeConn.cpp",
+        "MiNodeIO.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "installedVersion": "file:../pxt-minode-core"
+}
